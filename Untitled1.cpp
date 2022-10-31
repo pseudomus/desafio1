@@ -53,5 +53,6 @@ main(){
 	do{
 		printf("--------------------------------");
 		printf("[1]- listar elementos");
+		printf("")
 	}while(opcao!=5);
 }
