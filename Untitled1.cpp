@@ -25,7 +25,7 @@ void push(){
 		topo++;
 	}
 	else{
-		printf("A pilha est· cheia.\n");
+		printf("A pilha est√° cheia.\n");
 	}
 }
 
@@ -35,7 +35,7 @@ void pop(){
 		topo--;
 	}
 	else{
-		printf("A pilha est· vazia.\n");
+		printf("A pilha est√° vazia.\n");
 	}
 }
 
@@ -51,6 +51,6 @@ main(){
 	int opcao;
 	
 	do{
-		printf("--------------------------------")
+		printf("--------------------------------");
 	}while(opcao!=5);
 }
